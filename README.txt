@@ -1,1 +1,1 @@
-This repository is for openclasroom exercise
+This repository is for openclassroom exercise
